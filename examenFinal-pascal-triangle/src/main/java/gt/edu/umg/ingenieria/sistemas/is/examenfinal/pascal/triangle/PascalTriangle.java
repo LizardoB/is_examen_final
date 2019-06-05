@@ -39,6 +39,7 @@ public class PascalTriangle {
         }
         
         return stringBuilder.toString();
+        
     }
     
 }
